@@ -1,5 +1,4 @@
 # my-first-repo
 practice repo for sociol 273L
 
-test? is this what i was messing up on? 
-i struggle to follow directions
+this is a practice repo for our sociology 237L lab. we learned how to clone, add, commit, and push changes from gitbash to github in this repo.
